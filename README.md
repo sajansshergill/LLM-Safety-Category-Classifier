@@ -42,35 +42,5 @@ This model is ideal for:
 ---
 
 🏗 3. Project Structure
-📦 mini-safety-classifier
-│
 
-├── data/
-
-│   ├── synthetic_data.jsonl        # generated dataset
-
-│   ├── safety_embeddings.pkl       # precomputed embeddings
-
-│
-├── notebooks/
-│   ├── 01_generate_data.ipynb      # synthetic dataset creation
-
-│   ├── 02_train_classifier.ipynb   # embedding + training + evaluation
-
-│
-
-├── app/
-│   ├── app.py                      # optional Streamlit mini UI
-
-│
-
-├── models/
-│   ├── safety_model.pkl            # trained classifier
-
-│
-
-├── README.md                       # project documentation
-
-├── requirements.txt                # Python dependencies
-
-└── .env.example                    # example for OpenAI API key
+<img width="1182" height="784" alt="image" src="https://github.com/user-attachments/assets/7a2b957a-8021-4ff0-9c84-b77e28fc8cb6" />
