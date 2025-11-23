@@ -44,3 +44,21 @@ This model is ideal for:
 🏗 3. Project Structure
 
 <img width="1182" height="784" alt="image" src="https://github.com/user-attachments/assets/7a2b957a-8021-4ff0-9c84-b77e28fc8cb6" />
+
+---
+
+🛠 4. Tech Stack
+Core
+- Python 3.10+
+- OpenAI API (embeddings)
+- scikit-learn (ML models)
+- XGBoost (optional)
+- NumPy / Pandas
+
+Visualization
+- Matplotlib
+- Seaborn (optional)
+
+Optional
+- Streamlit (UI demo)
+- Jupyter / VSCode Notebooks
