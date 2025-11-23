@@ -48,11 +48,13 @@ This model is ideal for:
 ├── data/
 
 │   ├── synthetic_data.jsonl        # generated dataset
+
 │   ├── safety_embeddings.pkl       # precomputed embeddings
 
 │
 ├── notebooks/
 │   ├── 01_generate_data.ipynb      # synthetic dataset creation
+
 │   ├── 02_train_classifier.ipynb   # embedding + training + evaluation
 
 │
