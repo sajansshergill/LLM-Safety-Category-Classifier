@@ -54,13 +54,21 @@ This model is ideal for:
 ├── notebooks/
 │   ├── 01_generate_data.ipynb      # synthetic dataset creation
 │   ├── 02_train_classifier.ipynb   # embedding + training + evaluation
+
 │
+
 ├── app/
 │   ├── app.py                      # optional Streamlit mini UI
+
 │
+
 ├── models/
 │   ├── safety_model.pkl            # trained classifier
+
 │
+
 ├── README.md                       # project documentation
+
 ├── requirements.txt                # Python dependencies
+
 └── .env.example                    # example for OpenAI API key
