@@ -27,3 +27,37 @@ This model is ideal for:
 - Demonstrating end-to-end ML pipeline skills
 - Resume/GitHub portfolio projects
 - Fast on-device or API-side content moderation
+
+---
+
+🧩 2. Key Features
+✔ Synthetic dataset created using GPT
+✔ Embeddings generated using OpenAI text-embedding-3-large
+✔ Simple classifier (Logistic Regression / SVM / XGBoost)
+✔ Clear evaluation: accuracy, F1-score, confusion matrix
+✔ Optional: Streamlit mini dashboard
+✔ Minimal dependencies, no GPUs required
+✔ End-to-end training notebook
+
+---
+
+🏗 3. Project Structure
+📦 mini-safety-classifier
+│
+├── data/
+│   ├── synthetic_data.jsonl        # generated dataset
+│   ├── safety_embeddings.pkl       # precomputed embeddings
+│
+├── notebooks/
+│   ├── 01_generate_data.ipynb      # synthetic dataset creation
+│   ├── 02_train_classifier.ipynb   # embedding + training + evaluation
+│
+├── app/
+│   ├── app.py                      # optional Streamlit mini UI
+│
+├── models/
+│   ├── safety_model.pkl            # trained classifier
+│
+├── README.md                       # project documentation
+├── requirements.txt                # Python dependencies
+└── .env.example                    # example for OpenAI API key
