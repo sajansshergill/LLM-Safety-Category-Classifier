@@ -53,7 +53,7 @@ https://drive.google.com/file/d/1E_38w35ycMWfuCqqye3L1WPVcGkyvvgj/view?usp=share
 
 ## 🏗 3. Project Structure
 
-<img width="3644" height="2190" alt="image" src="https://github.com/user-attachments/assets/3b88689a-23d5-4d9e-abc0-2c2ba41c8b13" />
+<img width="718" height="418" alt="image" src="https://github.com/user-attachments/assets/2cb1ebbf-d8e0-49bf-9d0f-8cb80794585e" />
 
 ---
 
