@@ -41,6 +41,16 @@ This model is ideal for:
 
 ---
 
+<img width="1797" height="908" alt="PROJECT_IMAGE" src="https://github.com/user-attachments/assets/cb380600-c0b9-4a36-86b1-a590a2988020" />
+
+
+---
+
+## Demo Video
+https://drive.google.com/file/d/1E_38w35ycMWfuCqqye3L1WPVcGkyvvgj/view?usp=share_link
+
+---
+
 ## 🏗 3. Project Structure
 
 <img width="1182" height="784" alt="image" src="https://github.com/user-attachments/assets/7a2b957a-8021-4ff0-9c84-b77e28fc8cb6" />
