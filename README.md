@@ -41,7 +41,7 @@ This model is ideal for:
 
 ---
 
-<img width="1797" height="908" alt="PROJECT_IMAGE" src="https://github.com/user-attachments/assets/cb380600-c0b9-4a36-86b1-a590a2988020" />
+<img width="3644" height="2190" alt="image" src="https://github.com/user-attachments/assets/ec9cdc70-7f21-4e4d-9ab3-10416d424e5d" />
 
 
 ---
