@@ -3,6 +3,9 @@ from openai import OpenAI
 import pickle
 import numpy as np
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # Load classifier
 MODEL_PATH = "safety_model.pkl"
 
